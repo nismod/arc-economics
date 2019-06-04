@@ -1,76 +1,76 @@
 sector,sector_description,sic07_division_group,sic07_division_group_description,itrc_sector,itrc_sector_description,is_knowledge_based,sic07_division,sic07_division_description
-AB,"Agriculture, forestry and fishing; mining and quarrying",1-9,"Agriculture, forestry and fishing; mining and quarrying",1,Agriculture etc,0,1,"Crop and animal production, hunting and related service activities"
-AB,"Agriculture, forestry and fishing; mining and quarrying",1-9,"Agriculture, forestry and fishing; mining and quarrying",1,Agriculture etc,0,2,Forestry and logging
-AB,"Agriculture, forestry and fishing; mining and quarrying",1-9,"Agriculture, forestry and fishing; mining and quarrying",1,Agriculture etc,0,3,Fishing and aquaculture
-AB,"Agriculture, forestry and fishing; mining and quarrying",1-9,"Agriculture, forestry and fishing; mining and quarrying",2,Mining & quarrying,0,5,Mining of coal and lignite
-AB,"Agriculture, forestry and fishing; mining and quarrying",1-9,"Agriculture, forestry and fishing; mining and quarrying",2,Mining & quarrying,0,6,Extraction of crude petroleum and natural gas
-AB,"Agriculture, forestry and fishing; mining and quarrying",1-9,"Agriculture, forestry and fishing; mining and quarrying",2,Mining & quarrying,0,7,Mining of metal ores
-AB,"Agriculture, forestry and fishing; mining and quarrying",1-9,"Agriculture, forestry and fishing; mining and quarrying",2,Mining & quarrying,0,8,Other mining and quarrying
-AB,"Agriculture, forestry and fishing; mining and quarrying",1-9,"Agriculture, forestry and fishing; mining and quarrying",2,Mining & quarrying,0,9,Mining support service activities
-C,Manufacturing,10-12,"Manufacture of food, beverages and tobacco",1,"Food, drink & tobacco",0,10,Manufacture of food products
-C,Manufacturing,10-12,"Manufacture of food, beverages and tobacco",2,"Food, drink & tobacco",0,11,Manufacture of beverages
-C,Manufacturing,10-12,"Manufacture of food, beverages and tobacco",3,"Food, drink & tobacco",0,12,Manufacture of tobacco products
-C,Manufacturing,13-15,"Manufacture of textiles, wearing apparel and leather",2,Textiles etc,0,13,Manufacture of textiles
-C,Manufacturing,13-15,"Manufacture of textiles, wearing apparel and leather",3,Textiles etc,0,14,Manufacture of wearing apparel
-C,Manufacturing,13-15,"Manufacture of textiles, wearing apparel and leather",4,Textiles etc,0,15,Manufacture of leather and related products
-C,Manufacturing,16-18,Manufacture of wood and paper products and printing,5,Wood & paper,0,16,"Manufacture of wood and of products of wood and cork, except furniture;manufacture of articles of straw and plaiting materials"
-C,Manufacturing,16-18,Manufacture of wood and paper products and printing,5,Wood & paper,0,17,Manufacture of paper and paper products
-C,Manufacturing,16-18,Manufacture of wood and paper products and printing,6,Printing & recording,0,18,Printing and reproduction of recorded media
-C,Manufacturing,19-23,"Manufacture of petroleum, chemicals and other minerals",7,Coke & petroleum,0,19,Manufacture of coke and refined petroleum products
-C,Manufacturing,19-23,"Manufacture of petroleum, chemicals and other minerals",8,"Chemicals, etc",0,20,Manufacture of chemicals and chemical products
-C,Manufacturing,19-23,"Manufacture of petroleum, chemicals and other minerals",9,Pharmaceuticals,0,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations
-C,Manufacturing,19-23,"Manufacture of petroleum, chemicals and other minerals",10,Non-metallic min. prods.,0,22,Manufacture of rubber and plastic products
-C,Manufacturing,19-23,"Manufacture of petroleum, chemicals and other minerals",10,Non-metallic min. prods.,0,23,Manufacture of other non-metallic mineral products
-C,Manufacturing,24-25,Manufacture of basic and fabricated metal products,11,Metals & metal prods.,0,24,Manufacture of basic metals
-C,Manufacturing,24-25,Manufacture of basic and fabricated metal products,11,Metals & metal prods.,0,25,"Manufacture of fabricated metal products, except machinery and equipment"
-C,Manufacturing,26-27,"Manufacture of electronic, optical and electrical products",12,Electronics,1,26,"Manufacture of computer, electronic and optical products"
-C,Manufacturing,26-27,"Manufacture of electronic, optical and electrical products",13,Electrical equipment,1,27,Manufacture of electrical equipment
-C,Manufacturing,28-30,Manufacture of machinery and transport equipment,14,Machinery etc,1,28,Manufacture of machinery and equipment n.e.c.
-C,Manufacturing,28-30,Manufacture of machinery and transport equipment,15,Motor vehicles etc,1,29,"Manufacture of motor vehicles, trailers and semi-trailers"
-C,Manufacturing,28-30,Manufacture of machinery and transport equipment,15,Motor vehicles etc,1,30,Manufacture of other transport equipment
-C,Manufacturing,31-33,"Other manufacturing, repair and installation",15,Other manuf. & repair,1,31,Manufacture of furniture
-C,Manufacturing,31-33,"Other manufacturing, repair and installation",16,Other manuf. & repair,1,32,Other manufacturing
-C,Manufacturing,31-33,"Other manufacturing, repair and installation",17,Other manuf. & repair,1,33,Repair and installation of machinery and equipment
-DE,"Electricity, gas, water; sewerage and waste management",35-39,"Electricity, gas, water; sewerage and waste management",18,Electricity & gas,0,35,"Electricity, gas, steam and air conditioning supply"
-DE,"Electricity, gas, water; sewerage and waste management",35-39,"Electricity, gas, water; sewerage and waste management",19,"Water, sewerage & waste",0,36,"Water collection, treatment and supply"
-DE,"Electricity, gas, water; sewerage and waste management",35-39,"Electricity, gas, water; sewerage and waste management",19,"Water, sewerage & waste",0,37,Sewerage
-DE,"Electricity, gas, water; sewerage and waste management",35-39,"Electricity, gas, water; sewerage and waste management",19,"Water, sewerage & waste",0,38,"Waste collection, treatment and disposal activities; materials recovery"
-DE,"Electricity, gas, water; sewerage and waste management",35-39,"Electricity, gas, water; sewerage and waste management",19,"Water, sewerage & waste",0,39,"Remediation activities and other waste management services. This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water."
+AB,"Agriculture, forestry and fishing; mining and quarrying",1 to 9,"Agriculture, forestry and fishing; mining and quarrying",1,Agriculture etc,0,1,"Crop and animal production, hunting and related service activities"
+AB,"Agriculture, forestry and fishing; mining and quarrying",1 to 9,"Agriculture, forestry and fishing; mining and quarrying",1,Agriculture etc,0,2,Forestry and logging
+AB,"Agriculture, forestry and fishing; mining and quarrying",1 to 9,"Agriculture, forestry and fishing; mining and quarrying",1,Agriculture etc,0,3,Fishing and aquaculture
+AB,"Agriculture, forestry and fishing; mining and quarrying",1 to 9,"Agriculture, forestry and fishing; mining and quarrying",2,Mining & quarrying,0,5,Mining of coal and lignite
+AB,"Agriculture, forestry and fishing; mining and quarrying",1 to 9,"Agriculture, forestry and fishing; mining and quarrying",2,Mining & quarrying,0,6,Extraction of crude petroleum and natural gas
+AB,"Agriculture, forestry and fishing; mining and quarrying",1 to 9,"Agriculture, forestry and fishing; mining and quarrying",2,Mining & quarrying,0,7,Mining of metal ores
+AB,"Agriculture, forestry and fishing; mining and quarrying",1 to 9,"Agriculture, forestry and fishing; mining and quarrying",2,Mining & quarrying,0,8,Other mining and quarrying
+AB,"Agriculture, forestry and fishing; mining and quarrying",1 to 9,"Agriculture, forestry and fishing; mining and quarrying",2,Mining & quarrying,0,9,Mining support service activities
+C,Manufacturing,10 to 12,"Manufacture of food, beverages and tobacco",3,"Food, drink & tobacco",0,10,Manufacture of food products
+C,Manufacturing,10 to 12,"Manufacture of food, beverages and tobacco",3,"Food, drink & tobacco",0,11,Manufacture of beverages
+C,Manufacturing,10 to 12,"Manufacture of food, beverages and tobacco",3,"Food, drink & tobacco",0,12,Manufacture of tobacco products
+C,Manufacturing,13 to 15,"Manufacture of textiles, wearing apparel and leather",4,Textiles etc,0,13,Manufacture of textiles
+C,Manufacturing,13 to 15,"Manufacture of textiles, wearing apparel and leather",4,Textiles etc,0,14,Manufacture of wearing apparel
+C,Manufacturing,13 to 15,"Manufacture of textiles, wearing apparel and leather",4,Textiles etc,0,15,Manufacture of leather and related products
+C,Manufacturing,16 to 18,Manufacture of wood and paper products and printing,5,Wood & paper,0,16,"Manufacture of wood and of products of wood and cork, except furniture;manufacture of articles of straw and plaiting materials"
+C,Manufacturing,16 to 18,Manufacture of wood and paper products and printing,5,Wood & paper,0,17,Manufacture of paper and paper products
+C,Manufacturing,16 to 18,Manufacture of wood and paper products and printing,6,Printing & recording,0,18,Printing and reproduction of recorded media
+C,Manufacturing,19 to 23,"Manufacture of petroleum, chemicals and other minerals",7,Coke & petroleum,0,19,Manufacture of coke and refined petroleum products
+C,Manufacturing,19 to 23,"Manufacture of petroleum, chemicals and other minerals",8,"Chemicals, etc",0,20,Manufacture of chemicals and chemical products
+C,Manufacturing,19 to 23,"Manufacture of petroleum, chemicals and other minerals",9,Pharmaceuticals,0,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations
+C,Manufacturing,19 to 23,"Manufacture of petroleum, chemicals and other minerals",10,Non-metallic min. prods.,0,22,Manufacture of rubber and plastic products
+C,Manufacturing,19 to 23,"Manufacture of petroleum, chemicals and other minerals",10,Non-metallic min. prods.,0,23,Manufacture of other non-metallic mineral products
+C,Manufacturing,24 to 25,Manufacture of basic and fabricated metal products,11,Metals & metal prods.,0,24,Manufacture of basic metals
+C,Manufacturing,24 to 25,Manufacture of basic and fabricated metal products,11,Metals & metal prods.,0,25,"Manufacture of fabricated metal products, except machinery and equipment"
+C,Manufacturing,26 to 27,"Manufacture of electronic, optical and electrical products",12,Electronics,1,26,"Manufacture of computer, electronic and optical products"
+C,Manufacturing,26 to 27,"Manufacture of electronic, optical and electrical products",13,Electrical equipment,1,27,Manufacture of electrical equipment
+C,Manufacturing,28 to 30,Manufacture of machinery and transport equipment,14,Machinery etc,1,28,Manufacture of machinery and equipment n.e.c.
+C,Manufacturing,28 to 30,Manufacture of machinery and transport equipment,15,Motor vehicles etc,1,29,"Manufacture of motor vehicles, trailers and semi-trailers"
+C,Manufacturing,28 to 30,Manufacture of machinery and transport equipment,16,Other trans. equipment,1,30,Manufacture of other transport equipment
+C,Manufacturing,31 to 33,"Other manufacturing, repair and installation",17,Other manuf. & repair,1,31,Manufacture of furniture
+C,Manufacturing,31 to 33,"Other manufacturing, repair and installation",17,Other manuf. & repair,1,32,Other manufacturing
+C,Manufacturing,31 to 33,"Other manufacturing, repair and installation",17,Other manuf. & repair,1,33,Repair and installation of machinery and equipment
+DE,"Electricity, gas, water; sewerage and waste management",35 to 39,"Electricity, gas, water; sewerage and waste management",18,Electricity & gas,0,35,"Electricity, gas, steam and air conditioning supply"
+DE,"Electricity, gas, water; sewerage and waste management",35 to 39,"Electricity, gas, water; sewerage and waste management",19,"Water, sewerage & waste",0,36,"Water collection, treatment and supply"
+DE,"Electricity, gas, water; sewerage and waste management",35 to 39,"Electricity, gas, water; sewerage and waste management",19,"Water, sewerage & waste",0,37,Sewerage
+DE,"Electricity, gas, water; sewerage and waste management",35 to 39,"Electricity, gas, water; sewerage and waste management",19,"Water, sewerage & waste",0,38,"Waste collection, treatment and disposal activities; materials recovery"
+DE,"Electricity, gas, water; sewerage and waste management",35 to 39,"Electricity, gas, water; sewerage and waste management",19,"Water, sewerage & waste",0,39,"Remediation activities and other waste management services. This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water."
 F,Construction,41,Construction of buildings,20,Construction,0,41,Construction of buildings
 F,Construction,42,Civil engineering,20,Construction,0,42,Civil engineering
 F,Construction,43,Specialised construction activities,20,Construction,0,43,Specialised construction activities
 G,Wholesale and retail trade; repair of motor vehicles,45,Motor trades,21,Motor vehicles trade,0,45,Wholesale and retail trade and repair of motor vehicles and motorcycles
 G,Wholesale and retail trade; repair of motor vehicles,46,Wholesale trade,22,Wholesale trade,0,46,"Wholesale trade, except of motor vehicles and motorcycles"
 G,Wholesale and retail trade; repair of motor vehicles,47,Retail trade,23,Retail trade,0,47,"Retail trade, except of motor vehicles and motorcycles"
-H,Transportation and storage,49-51,"Land, water and air transport",24,Land transport,0,49,Land transport and transport via pipelines
-H,Transportation and storage,49-51,"Land, water and air transport",25,Water transport,0,50,Water transport
-H,Transportation and storage,49-51,"Land, water and air transport",26,Air transport,0,51,Air transport
+H,Transportation and storage,49 to 51,"Land, water and air transport",24,Land transport,0,49,Land transport and transport via pipelines
+H,Transportation and storage,49 to 51,"Land, water and air transport",25,Water transport,0,50,Water transport
+H,Transportation and storage,49 to 51,"Land, water and air transport",26,Air transport,0,51,Air transport
 H,Transportation and storage,52,Warehousing and transport support activities,27,Warehousing & postal,0,52,Warehousing and support activities for transportation
 H,Transportation and storage,53,Postal and courier activities,27,Warehousing & postal,0,53,Postal and courier activities
 I,Accommodation and food service activities,55,Accommodation,28,Accomodation,0,55,Accommodation
 I,Accommodation and food service activities,56,Food and beverage service activities,29,Food & beverage services,0,56,Food and beverage service activities
-J,Information and communication,58-60,Publishing; film and TV production and broadcasting,28,Media,1,58,Publishing activities
-J,Information and communication,58-60,Publishing; film and TV production and broadcasting,29,Media,1,59,"Motion picture, video and television programme production, sound recording and music publishing activities"
-J,Information and communication,58-60,Publishing; film and TV production and broadcasting,30,Media,1,60,Programming and broadcasting activities
-J,Information and communication,61-63,Telecommunications; information technology,29,IT services,1,61,Telecommunications
-J,Information and communication,61-63,Telecommunications; information technology,30,IT services,1,62,"Computer programming, consultancy and related activities"
-J,Information and communication,61-63,Telecommunications; information technology,31,IT services,1,63,Information service activities
+J,Information and communication,58 to 60,Publishing; film and TV production and broadcasting,30,Media,1,58,Publishing activities
+J,Information and communication,58 to 60,Publishing; film and TV production and broadcasting,30,Media,1,59,"Motion picture, video and television programme production, sound recording and music publishing act to vities"
+J,Information and communication,58 to 60,Publishing; film and TV production and broadcasting,30,Media,1,60,Programming and broadcasting activities
+J,Information and communication,61 to 63,Telecommunications; information technology,31,IT services,1,61,Telecommunications
+J,Information and communication,61 to 63,Telecommunications; information technology,31,IT services,1,62,"Computer programming, consultancy and related activities"
+J,Information and communication,61 to 63,Telecommunications; information technology,31,IT services,1,63,Information service activities
 K,Financial and insurance activities,64,Financial service activities,32,Financial & insurance,1,64,"Financial service activities, except insurance and pension funding"
-K,Financial and insurance activities,65-66,"Insurance, pension funding and auxiliary financial activities",31,Financial & insurance,1,65,"Insurance, reinsurance and pension funding, except compulsory social security"
-K,Financial and insurance activities,65-66,"Insurance, pension funding and auxiliary financial activities",32,Financial & insurance,1,66,Activities auxiliary to financial services and insurance activities
+K,Financial and insurance activities,65 to 66,"Insurance, pension funding and auxiliary financial activities",32,Financial & insurance,1,65,"Insurance, reinsurance and pension funding, except compulsory social secur to ty"
+K,Financial and insurance activities,65 to 66,"Insurance, pension funding and auxiliary financial activities",32,Financial & insurance,1,66,Activities auxiliary to financial services and insurance activities
 L,Real estate activities,68,"Real estate activities, excluding imputed rental",33,Real estate,0,68,Real estate activities
 L,Real estate activities,68IMP,Owner-occupiers' imputed rental,33,Real estate,0,68,Real estate activities
 M,"Professional, scientific and technical activities",69,Legal and accounting activities,34,Legal & accounting,1,69,Legal and accounting activities
 M,"Professional, scientific and technical activities",70,Head offices and management consultancy,35,Head offices & manag. cons.,1,70,Activities of head offices; management consultancy activities
 M,"Professional, scientific and technical activities",71,Architectural and engineering activities,36,Archit. & engin. services,1,71,Architectural and engineering activities; technical testing and analysis
-M,"Professional, scientific and technical activities",72-73,Research and development; advertising and market research,37,Other professional services,1,72,Scientific research and development
-M,"Professional, scientific and technical activities",72-73,Research and development; advertising and market research,38,Other professional services,1,73,Advertising and market research
+M,"Professional, scientific and technical activities",72 to 73,Research and development; advertising and market research,37,Other professional services,1,72,Scientific research and development
+M,"Professional, scientific and technical activities",72 to 73,Research and development; advertising and market research,37,Other professional services,1,73,Advertising and market research
 M,"Professional, scientific and technical activities",74,"Other professional, scientific and technical activities",37,Other professional services,1,74,"Other professional, scientific and technical activities"
 M,"Professional, scientific and technical activities",75,Veterinary activities,37,Other professional services,1,75,Veterinary activities
 N,Administrative and support service activities,77,Rental and leasing activities,37,Other professional services,1,77,Rental and leasing activities
-N,Administrative and support service activities,78-80,Employment activities; tourism and security services,35,Other professional services,1,78,Employment activities
-N,Administrative and support service activities,78-80,Employment activities; tourism and security services,36,Other professional services,1,79,"Travel agency, tour operator and other reservation service and related activities"
-N,Administrative and support service activities,78-80,Employment activities; tourism and security services,37,Other professional services,1,80,Security and investigation activities
+N,Administrative and support service activities,78 to 80,Employment activities; tourism and security services,37,Other professional services,1,78,Employment activities
+N,Administrative and support service activities,78 to 80,Employment activities; tourism and security services,37,Other professional services,1,79,"Travel agency, tour operator and other reservation service and related activities"
+N,Administrative and support service activities,78 to 80,Employment activities; tourism and security services,37,Other professional services,1,80,Security and investigation activities
 N,Administrative and support service activities,81,Services to buildings and landscape activities,37,Other professional services,1,81,Services to buildings and landscape activities
 N,Administrative and support service activities,82,Office administration and business support activities,38,Business support services,1,82,"Office administrative, office support and other business support activities"
 O,Public administration and defence,84,Public administration and defence,39,PAD,1,84,Public administration and defence; compulsory social security
@@ -78,13 +78,13 @@ P,Education,85,Education,40,Education,1,85,Education
 Q,Human health and social work activities,86,Human health activities,41,Health,1,86,Human health activities
 Q,Human health and social work activities,87,Residential care activities,42,Residential & social,0,87,Residential care activities
 Q,Human health and social work activities,88,Social work activities,42,Residential & social,0,88,Social work activities without accommodation
-R,"Arts, entertainment and recreation",90-91,"Creative, arts, entertainment and cultural activities",42,Arts,1,90,"Creative, arts and entertainment activities"
-R,"Arts, entertainment and recreation",90-91,"Creative, arts, entertainment and cultural activities",43,Arts,1,91,"Libraries, archives, museums and other cultural activities"
-R,"Arts, entertainment and recreation",92-93,Gambling and betting; sports and recreation activities,43,Recreational services,0,92,Gambling and betting activities
-R,"Arts, entertainment and recreation",92-93,Gambling and betting; sports and recreation activities,44,Recreational services,0,93,Sports activities and amusement and recreation activities
+R,"Arts, entertainment and recreation",90 to 91,"Creative, arts, entertainment and cultural activities",43,Arts,1,90,"Creative, arts and entertainment activities"
+R,"Arts, entertainment and recreation",90 to 91,"Creative, arts, entertainment and cultural activities",43,Arts,1,91,"Libraries, archives, museums and other cultural activities"
+R,"Arts, entertainment and recreation",92 to 93,Gambling and betting; sports and recreation activities,44,Recreational services,0,92,Gambling and betting activities
+R,"Arts, entertainment and recreation",92 to 93,Gambling and betting; sports and recreation activities,44,Recreational services,0,93,Sports activities and amusement and recreation activities
 S,Other service activities,94,Activities of membership organisations,45,Other services,0,94,Activities of membership organisations
 S,Other service activities,95,"Repair of computers, personal and household goods",45,Other services,0,95,Repair of computers and personal and household goods
 S,Other service activities,96,Other personal service activities,45,Other services,0,96,Other personal service activities
-T,Activities of households ,97-98,Households as employers and own use production,46,Unallocated,0,97,Activities of households as employers of domestic personnel
-T,Activities of households ,97-98,Households as employers and own use production,46,Unallocated,0,98,Undifferentiated goods- and services-producing activities of private households for own use
+T,Activities of households ,97 to 98,Households as employers and own use production,46,Unallocated,0,97,Activities of households as employers of domestic personnel
+T,Activities of households ,97 to 98,Households as employers and own use production,46,Unallocated,0,98,Undifferentiated goods- and services-producing activities of private households for own use
 U,Activities of extraterritorial organisations and bodies,99,Activities of extraterritorial organisations and bodies,46,Unallocated,0,99,Activities of extraterritorial organisations and bodies
