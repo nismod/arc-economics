@@ -2,6 +2,7 @@
 data_as_provided/lad_nuts_lu.csv
 data_as_provided/rgva_ni_industry.xlsx
 data_as_provided/rgva_uk_industry.xlsx
+regionalgva*.xlsx
 data_processed/*
 
 *.html
